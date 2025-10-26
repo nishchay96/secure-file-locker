@@ -1,0 +1,31 @@
+{
+  "theme": {
+    "bg": "#20232a",
+    "fg": "#ffffff",
+    "card_bg": "#2b2f36",
+    "accent": "#007acc",
+    "font_family": "Segoe UI",
+    "title_size": 18,
+    "subtitle_size": 10
+  },
+  "presets": {
+    "formats": [
+      "HDMY",
+      "HMDY",
+      "DHMY",
+      "MDHY"
+    ],
+    "cities": [
+      "New York (America/New_York)",
+      "London (Europe/London)",
+      "Tokyo (Asia/Tokyo)",
+      "Sydney (Australia/Sydney)",
+      "Paris (Europe/Paris)",
+      "Berlin (Europe/Berlin)"
+    ]
+  },
+  "ui": {
+    "show_file_counts_on_main": false,
+    "vault_manager_refresh_silent": true
+  }
+}

@@ -1,0 +1,4 @@
+cryptography>=3.4.8
+psutil>=5.8.0
+pytz>=2021.3
+pybluez>=0.23
